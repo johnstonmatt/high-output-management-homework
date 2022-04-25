@@ -2,7 +2,7 @@
 
 ## Motivation
 
-I just completed the audiobook of Andrew S. Grove's [High Output Management](https://www.audible.ca/pd/High-Output-Management-Audiobook/B08Z8K6DWY). In the conclusion of the book he recommends you perform enough of the following activities to amass 100 points. I've transcribed all the tasks from the audio book for use. All credit goes to Andrew S. Grove. If you are involved in the production of the book, please consider adding these to the accompanying PDF on audible.
+I just completed the audiobook of Andrew S. Grove's [High Output Management](https://www.audible.ca/pd/High-Output-Management-Audiobook/B08Z8K6DWY). In the conclusion of the book he recommends you perform enough of the following activities to amass 100 points. I've transcribed all the tasks from the audiobook for use. All credit goes to Andrew S. Grove. If you are involved in the production of the book, please consider adding these to the accompanying PDF on audible.
 
 ## Production
 
